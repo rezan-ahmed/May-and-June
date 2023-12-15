@@ -1,0 +1,1194 @@
+State,County,State Code,County Code,Date,AQI,Category,Parameter
+Alabama,Baldwin,1,3,6/29,65,Moderate,PM2.5
+Alabama,Clay,1,27,6/29,60,Moderate,PM2.5
+Alabama,DeKalb,1,49,6/29,76,Moderate,PM2.5
+Alabama,Etowah,1,55,6/29,71,Moderate,PM2.5
+Alabama,Jefferson,1,73,6/29,171,Unhealthy,PM2.5
+Alabama,Madison,1,89,6/29,59,Moderate,PM2.5
+Alabama,Mobile,1,97,6/29,66,Moderate,PM2.5
+Alabama,Sumter,1,119,6/29,58,Moderate,PM2.5
+Alaska,Juneau ,2,110,6/29,7,Good,PM2.5
+Alaska,Matanuska-Susitna ,2,170,6/29,7,Good,PM2.5
+Arizona,Santa Cruz,4,23,6/29,30,Good,PM2.5
+Arkansas,Arkansas,5,1,6/29,55,Moderate,PM2.5
+Arkansas,Ashley,5,3,6/29,48,Good,PM2.5
+Arkansas,Crittenden,5,35,6/29,54,Moderate,PM2.5
+Arkansas,Garland,5,51,6/29,51,Moderate,PM2.5
+Arkansas,Jackson,5,67,6/29,56,Moderate,PM2.5
+Arkansas,Polk,5,113,6/29,32,Good,PM2.5
+Arkansas,Pulaski,5,119,6/29,68,Moderate,PM2.5
+Arkansas,Union,5,139,6/29,52,Moderate,PM2.5
+California,Colusa,6,11,6/29,53,Moderate,PM2.5
+California,Del Norte,6,15,6/29,15,Good,PM2.5
+California,Kern,6,29,6/29,55,Moderate,PM2.5
+California,Lake,6,33,6/29,23,Good,PM2.5
+California,Mono,6,51,6/29,20,Good,PM2.5
+California,Plumas,6,63,6/29,24,Good,PM2.5
+California,Sacramento,6,67,6/29,31,Good,PM2.5
+California,San Mateo,6,81,6/29,29,Good,PM2.5
+California,Stanislaus,6,99,6/29,30,Good,PM2.5
+California,Trinity,6,105,6/29,17,Good,PM2.5
+Colorado,Adams,8,1,6/29,32,Good,PM2.5
+Connecticut,Hartford,9,3,6/29,65,Moderate,PM2.5
+Connecticut,Litchfield,9,5,6/29,87,Moderate,PM2.5
+Connecticut,New Haven,9,9,6/29,71,Moderate,PM2.5
+Connecticut,New London,9,11,6/29,57,Moderate,PM2.5
+District Of Columbia,District of Columbia,11,1,6/29,164,Unhealthy,PM2.5
+Florida,Alachua,12,1,6/29,65,Moderate,PM2.5
+Florida,Bay,12,5,6/29,64,Moderate,PM2.5
+Florida,Citrus,12,17,6/29,56,Moderate,PM2.5
+Florida,Collier,12,21,6/29,37,Good,PM2.5
+Florida,Columbia,12,23,6/29,82,Moderate,PM2.5
+Florida,Escambia,12,33,6/29,72,Moderate,PM2.5
+Florida,Hamilton,12,47,6/29,63,Moderate,PM2.5
+Florida,Hillsborough,12,57,6/29,56,Moderate,PM2.5
+Florida,Leon,12,73,6/29,66,Moderate,PM2.5
+Florida,Marion,12,83,6/29,52,Moderate,PM2.5
+Florida,Pinellas,12,103,6/29,57,Moderate,PM2.5
+Florida,Sarasota,12,115,6/29,46,Good,PM2.5
+Florida,Wakulla,12,129,6/29,62,Moderate,PM2.5
+Georgia,Bibb,13,21,6/29,80,Moderate,PM2.5
+Georgia,Chatham,13,51,6/29,67,Moderate,PM2.5
+Georgia,Clarke,13,59,6/29,73,Moderate,PM2.5
+Georgia,Clayton,13,63,6/29,97,Moderate,PM2.5
+Georgia,Cobb,13,67,6/29,125,Unhealthy for Sensitive Groups,PM2.5
+Georgia,Coffee,13,69,6/29,56,Moderate,PM2.5
+Georgia,Dougherty,13,95,6/29,71,Moderate,PM2.5
+Georgia,Floyd,13,115,6/29,110,Unhealthy for Sensitive Groups,PM2.5
+Georgia,Glynn,13,127,6/29,66,Moderate,PM2.5
+Georgia,Hall,13,139,6/29,125,Unhealthy for Sensitive Groups,PM2.5
+Georgia,Houston,13,153,6/29,70,Moderate,PM2.5
+Georgia,Lowndes,13,185,6/29,70,Moderate,PM2.5
+Georgia,Walker,13,295,6/29,128,Unhealthy for Sensitive Groups,PM2.5
+Georgia,Washington,13,303,6/29,82,Moderate,PM2.5
+Hawaii,Hawaii,15,1,6/29,18,Good,PM2.5
+Hawaii,Maui,15,9,6/29,13,Good,PM2.5
+Idaho,Benewah,16,9,6/29,27,Good,PM2.5
+Idaho,Boise,16,15,6/29,7,Good,PM2.5
+Idaho,Bonner,16,17,6/29,22,Good,PM2.5
+Idaho,Bonneville,16,19,6/29,28,Good,PM2.5
+Idaho,Canyon,16,27,6/29,24,Good,PM2.5
+Idaho,Franklin,16,41,6/29,24,Good,PM2.5
+Idaho,Kootenai,16,55,6/29,24,Good,PM2.5
+Idaho,Latah,16,57,6/29,11,Good,PM2.5
+Idaho,Lemhi,16,59,6/29,13,Good,PM2.5
+Idaho,Nez Perce,16,69,6/29,32,Good,PM2.5
+Idaho,Shoshone,16,79,6/29,23,Good,PM2.5
+Idaho,Twin Falls,16,83,6/29,17,Good,PM2.5
+Idaho,Valley,16,85,6/29,20,Good,PM2.5
+Illinois,Champaign,17,19,6/29,125,Unhealthy for Sensitive Groups,PM2.5
+Illinois,Cook,17,31,6/29,158,Unhealthy,PM2.5
+Illinois,DuPage,17,43,6/29,157,Unhealthy,PM2.5
+Illinois,Hamilton,17,65,6/29,47,Good,PM2.5
+Illinois,Jersey,17,83,6/29,43,Good,PM2.5
+Illinois,Kane,17,89,6/29,156,Unhealthy,PM2.5
+Illinois,Macon,17,115,6/29,93,Moderate,PM2.5
+Illinois,Madison,17,119,6/29,57,Moderate,PM2.5
+Illinois,McHenry,17,111,6/29,163,Unhealthy,PM2.5
+Illinois,McLean,17,113,6/29,98,Moderate,PM2.5
+Illinois,Randolph,17,157,6/29,52,Moderate,PM2.5
+Illinois,Rock Island,17,161,6/29,163,Unhealthy,PM2.5
+Illinois,Saint Clair,17,163,6/29,54,Moderate,PM2.5
+Illinois,Sangamon,17,167,6/29,158,Unhealthy,PM2.5
+Illinois,Will,17,197,6/29,153,Unhealthy,PM2.5
+Illinois,Winnebago,17,201,6/29,181,Unhealthy,PM2.5
+Indiana,Bartholomew,18,5,6/29,121,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Clark,18,19,6/29,123,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Delaware,18,35,6/29,121,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Dubois,18,37,6/29,73,Moderate,PM2.5
+Indiana,Elkhart,18,39,6/29,149,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Floyd,18,43,6/29,103,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Greene,18,55,6/29,94,Moderate,PM2.5
+Indiana,Hamilton,18,57,6/29,136,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Henry,18,65,6/29,141,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Howard,18,67,6/29,135,Unhealthy for Sensitive Groups,PM2.5
+Indiana,LaPorte,18,91,6/29,121,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Lake,18,89,6/29,145,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Madison,18,95,6/29,142,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Marion,18,97,6/29,173,Unhealthy,PM2.5
+Indiana,Monroe,18,105,6/29,114,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Porter,18,127,6/29,130,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Spencer,18,147,6/29,67,Moderate,PM2.5
+Indiana,St. Joseph,18,141,6/29,157,Unhealthy,PM2.5
+Indiana,Tippecanoe,18,157,6/29,124,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Vanderburgh,18,163,6/29,86,Moderate,PM2.5
+Indiana,Vigo,18,167,6/29,86,Moderate,PM2.5
+Indiana,Whitley,18,183,6/29,157,Unhealthy,PM2.5
+Iowa,Black Hawk,19,13,6/29,154,Unhealthy,PM2.5
+Iowa,Clinton,19,45,6/29,168,Unhealthy,PM2.5
+Iowa,Johnson,19,103,6/29,178,Unhealthy,PM2.5
+Iowa,Lee,19,111,6/29,97,Moderate,PM2.5
+Iowa,Linn,19,113,6/29,183,Unhealthy,PM2.5
+Iowa,Montgomery,19,137,6/29,55,Moderate,PM2.5
+Iowa,Muscatine,19,139,6/29,164,Unhealthy,PM2.5
+Iowa,Polk,19,153,6/29,127,Unhealthy for Sensitive Groups,PM2.5
+Iowa,Pottawattamie,19,155,6/29,54,Moderate,PM2.5
+Iowa,Scott,19,163,6/29,159,Unhealthy,PM2.5
+Iowa,Van Buren,19,177,6/29,125,Unhealthy for Sensitive Groups,PM2.5
+Iowa,Woodbury,19,193,6/29,41,Good,PM2.5
+Kentucky,Bell,21,13,6/29,131,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Boyd,21,19,6/29,154,Unhealthy,PM2.5
+Kentucky,Campbell,21,37,6/29,137,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Carter,21,43,6/29,132,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Christian,21,47,6/29,69,Moderate,PM2.5
+Kentucky,Daviess,21,59,6/29,80,Moderate,PM2.5
+Kentucky,Fayette,21,67,6/29,128,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Hardin,21,93,6/29,93,Moderate,PM2.5
+Kentucky,Jefferson,21,111,6/29,120,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,McCracken,21,145,6/29,46,Good,PM2.5
+Kentucky,Perry,21,193,6/29,137,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Pike,21,195,6/29,127,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Pulaski,21,199,6/29,120,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Warren,21,227,6/29,98,Moderate,PM2.5
+Louisiana,Bossier,22,15,6/29,54,Moderate,PM2.5
+Louisiana,Caddo,22,17,6/29,51,Moderate,PM2.5
+Louisiana,Lafourche,22,57,6/29,56,Moderate,PM2.5
+Louisiana,Livingston,22,63,6/29,52,Moderate,PM2.5
+Louisiana,Orleans,22,71,6/29,56,Moderate,PM2.5
+Louisiana,Ouachita,22,73,6/29,40,Good,PM2.5
+Louisiana,Rapides,22,79,6/29,38,Good,PM2.5
+Louisiana,St. Bernard,22,87,6/29,46,Good,PM2.5
+Louisiana,St. Tammany,22,103,6/29,43,Good,PM2.5
+Louisiana,Tangipahoa,22,105,6/29,48,Good,PM2.5
+Louisiana,West Baton Rouge,22,121,6/29,36,Good,PM2.5
+Maine,Cumberland,23,5,6/29,61,Moderate,PM2.5
+Maryland,Cecil,24,15,6/29,162,Unhealthy,PM2.5
+Maryland,Dorchester,24,19,6/29,159,Unhealthy,PM2.5
+Maryland,Garrett,24,23,6/29,165,Unhealthy,PM2.5
+Maryland,Harford,24,25,6/29,167,Unhealthy,PM2.5
+Maryland,Howard,24,27,6/29,168,Unhealthy,PM2.5
+Maryland,Kent,24,29,6/29,158,Unhealthy,PM2.5
+Maryland,Montgomery,24,31,6/29,161,Unhealthy,PM2.5
+Maryland,Prince George's,24,33,6/29,166,Unhealthy,PM2.5
+Maryland,Washington,24,43,6/29,167,Unhealthy,PM2.5
+Massachusetts,Berkshire,25,3,6/29,79,Moderate,PM2.5
+Massachusetts,Bristol,25,5,6/29,51,Moderate,PM2.5
+Massachusetts,Franklin,25,11,6/29,53,Moderate,PM2.5
+Massachusetts,Hampden,25,13,6/29,56,Moderate,PM2.5
+Massachusetts,Hampshire,25,15,6/29,52,Moderate,PM2.5
+Massachusetts,Middlesex,25,17,6/29,47,Good,PM2.5
+Massachusetts,Norfolk,25,21,6/29,48,Good,PM2.5
+Massachusetts,Plymouth,25,23,6/29,52,Moderate,PM2.5
+Massachusetts,Suffolk,25,25,6/29,54,Moderate,PM2.5
+Massachusetts,Worcester,25,27,6/29,54,Moderate,PM2.5
+Michigan,Allegan,26,5,6/29,161,Unhealthy,PM2.5
+Michigan,Bay,26,17,6/29,169,Unhealthy,PM2.5
+Michigan,Genesee,26,49,6/29,169,Unhealthy,PM2.5
+Michigan,Ingham,26,65,6/29,183,Unhealthy,PM2.5
+Michigan,Kalamazoo,26,77,6/29,179,Unhealthy,PM2.5
+Michigan,Kent,26,81,6/29,167,Unhealthy,PM2.5
+Michigan,Lenawee,26,91,6/29,194,Unhealthy,PM2.5
+Michigan,Macomb,26,99,6/29,165,Unhealthy,PM2.5
+Michigan,Missaukee,26,113,6/29,161,Unhealthy,PM2.5
+Michigan,Oakland,26,125,6/29,164,Unhealthy,PM2.5
+Michigan,Ottawa,26,139,6/29,167,Unhealthy,PM2.5
+Michigan,Schoolcraft,26,153,6/29,153,Unhealthy,PM2.5
+Michigan,St. Clair,26,147,6/29,158,Unhealthy,PM2.5
+Michigan,Washtenaw,26,161,6/29,180,Unhealthy,PM2.5
+Michigan,Wayne,26,163,6/29,178,Unhealthy,PM2.5
+Minnesota,Becker,27,5,6/29,58,Moderate,PM2.5
+Minnesota,Beltrami,27,7,6/29,61,Moderate,PM2.5
+Minnesota,Carlton,27,17,6/29,56,Moderate,PM2.5
+Minnesota,Cass,27,21,6/29,64,Moderate,PM2.5
+Minnesota,Crow Wing,27,35,6/29,65,Moderate,PM2.5
+Minnesota,Dakota,27,37,6/29,90,Moderate,PM2.5
+Minnesota,Hennepin,27,53,6/29,88,Moderate,PM2.5
+Minnesota,Lake,27,75,6/29,55,Moderate,PM2.5
+Minnesota,Olmsted,27,109,6/29,91,Moderate,PM2.5
+Minnesota,Ramsey,27,123,6/29,89,Moderate,PM2.5
+Minnesota,Saint Louis,27,137,6/29,61,Moderate,PM2.5
+Minnesota,Scott,27,139,6/29,87,Moderate,PM2.5
+Minnesota,Stearns,27,145,6/29,82,Moderate,PM2.5
+Minnesota,Wright,27,171,6/29,87,Moderate,PM2.5
+Mississippi,DeSoto,28,33,6/29,57,Moderate,PM2.5
+Mississippi,Forrest,28,35,6/29,64,Moderate,PM2.5
+Mississippi,Hancock,28,45,6/29,52,Moderate,PM2.5
+Mississippi,Harrison,28,47,6/29,62,Moderate,PM2.5
+Mississippi,Hinds,28,49,6/29,57,Moderate,PM2.5
+Mississippi,Jackson,28,59,6/29,61,Moderate,PM2.5
+Missouri,Buchanan,29,21,6/29,52,Moderate,PM2.5
+Missouri,Jackson,29,95,6/29,43,Good,PM2.5
+Missouri,St. Louis City,29,510,6/29,77,Moderate,PM2.5
+Montana,Beaverhead,30,1,6/29,14,Good,PM2.5
+Montana,Cascade,30,13,6/29,44,Good,PM2.5
+Montana,Gallatin,30,31,6/29,16,Good,PM2.5
+Montana,Glacier,30,35,6/29,22,Good,PM2.5
+Montana,Hill,30,41,6/29,35,Good,PM2.5
+Montana,Lincoln,30,53,6/29,38,Good,PM2.5
+Montana,Phillips,30,71,6/29,54,Moderate,PM2.5
+Montana,Ravalli,30,81,6/29,16,Good,PM2.5
+Montana,Richland,30,83,6/29,48,Good,PM2.5
+Montana,Sanders,30,89,6/29,23,Good,PM2.5
+Montana,Silver Bow,30,93,6/29,23,Good,PM2.5
+Montana,Yellowstone,30,111,6/29,13,Good,PM2.5
+Nebraska,Gage,31,67,6/29,7,Good,PM2.5
+Nebraska,Hall,31,79,6/29,30,Good,PM2.5
+Nebraska,Sarpy,31,153,6/29,58,Moderate,PM2.5
+Nebraska,Scotts Bluff,31,157,6/29,9,Good,PM2.5
+Nebraska,Washington,31,177,6/29,30,Good,PM2.5
+Nevada,Douglas,32,5,6/29,15,Good,PM2.5
+New Hampshire,Cheshire,33,5,6/29,46,Good,PM2.5
+New Hampshire,Grafton,33,9,6/29,29,Good,PM2.5
+New Jersey,Atlantic,34,1,6/29,113,Unhealthy for Sensitive Groups,PM2.5
+New Jersey,Bergen,34,3,6/29,92,Moderate,PM2.5
+New Jersey,Camden,34,7,6/29,156,Unhealthy,PM2.5
+New Jersey,Cumberland,34,11,6/29,141,Unhealthy for Sensitive Groups,PM2.5
+New Jersey,Gloucester,34,15,6/29,151,Unhealthy,PM2.5
+New Jersey,Hudson,34,17,6/29,100,Moderate,PM2.5
+New Jersey,Hunterdon,34,19,6/29,123,Unhealthy for Sensitive Groups,PM2.5
+New Jersey,Mercer,34,21,6/29,141,Unhealthy for Sensitive Groups,PM2.5
+New Jersey,Middlesex,34,23,6/29,132,Unhealthy for Sensitive Groups,PM2.5
+New Jersey,Morris,34,27,6/29,151,Unhealthy,PM2.5
+New Jersey,Ocean,34,29,6/29,107,Unhealthy for Sensitive Groups,PM2.5
+New Jersey,Passaic,34,31,6/29,103,Unhealthy for Sensitive Groups,PM2.5
+New Jersey,Union,34,39,6/29,117,Unhealthy for Sensitive Groups,PM2.5
+New Jersey,Warren,34,41,6/29,153,Unhealthy,PM2.5
+New Mexico,Santa Fe,35,49,6/29,48,Good,PM2.5
+New Mexico,Taos,35,55,6/29,20,Good,PM2.5
+New York,Albany,36,1,6/29,115,Unhealthy for Sensitive Groups,PM2.5
+New York,Bronx,36,5,6/29,103,Unhealthy for Sensitive Groups,PM2.5
+New York,Erie,36,29,6/29,122,Unhealthy for Sensitive Groups,PM2.5
+New York,Essex,36,31,6/29,82,Moderate,PM2.5
+New York,Kings,36,47,6/29,114,Unhealthy for Sensitive Groups,PM2.5
+New York,Monroe,36,55,6/29,163,Unhealthy,PM2.5
+New York,Nassau,36,59,6/29,71,Moderate,PM2.5
+New York,New York,36,61,6/29,95,Moderate,PM2.5
+New York,Oneida,36,65,6/29,155,Unhealthy,PM2.5
+New York,Onondaga,36,67,6/29,168,Unhealthy,PM2.5
+New York,Orange,36,71,6/29,113,Unhealthy for Sensitive Groups,PM2.5
+New York,Queens,36,81,6/29,111,Unhealthy for Sensitive Groups,PM2.5
+New York,Richmond,36,85,6/29,118,Unhealthy for Sensitive Groups,PM2.5
+New York,Rockland,36,87,6/29,117,Unhealthy for Sensitive Groups,PM2.5
+New York,Steuben,36,101,6/29,179,Unhealthy,PM2.5
+New York,Westchester,36,119,6/29,78,Moderate,PM2.5
+North Carolina,Buncombe,37,21,6/29,94,Moderate,PM2.5
+North Carolina,Catawba,37,35,6/29,110,Unhealthy for Sensitive Groups,PM2.5
+North Carolina,Cumberland,37,51,6/29,99,Moderate,PM2.5
+North Carolina,Davidson,37,57,6/29,126,Unhealthy for Sensitive Groups,PM2.5
+North Carolina,Durham,37,63,6/29,121,Unhealthy for Sensitive Groups,PM2.5
+North Carolina,Edgecombe,37,65,6/29,99,Moderate,PM2.5
+North Carolina,Forsyth,37,67,6/29,153,Unhealthy,PM2.5
+North Carolina,Guilford,37,81,6/29,131,Unhealthy for Sensitive Groups,PM2.5
+North Carolina,Johnston,37,101,6/29,87,Moderate,PM2.5
+North Carolina,Mitchell,37,121,6/29,99,Moderate,PM2.5
+North Carolina,Montgomery,37,123,6/29,118,Unhealthy for Sensitive Groups,PM2.5
+North Carolina,New Hanover,37,129,6/29,73,Moderate,PM2.5
+North Carolina,Northampton,37,131,6/29,134,Unhealthy for Sensitive Groups,PM2.5
+North Carolina,Pitt,37,147,6/29,84,Moderate,PM2.5
+North Carolina,Rowan,37,159,6/29,122,Unhealthy for Sensitive Groups,PM2.5
+North Carolina,Swain,37,173,6/29,93,Moderate,PM2.5
+North Carolina,Wake,37,183,6/29,130,Unhealthy for Sensitive Groups,PM2.5
+North Dakota,Billings,38,7,6/29,49,Good,PM2.5
+North Dakota,Burke,38,13,6/29,106,Unhealthy for Sensitive Groups,PM2.5
+North Dakota,Burleigh,38,15,6/29,64,Moderate,PM2.5
+North Dakota,Cass,38,17,6/29,54,Moderate,PM2.5
+North Dakota,Dunn,38,25,6/29,64,Moderate,PM2.5
+North Dakota,McKenzie,38,53,6/29,59,Moderate,PM2.5
+North Dakota,Mercer,38,57,6/29,70,Moderate,PM2.5
+North Dakota,Oliver,38,65,6/29,66,Moderate,PM2.5
+North Dakota,Ward,38,101,6/29,84,Moderate,PM2.5
+Ohio,Allen,39,3,6/29,163,Unhealthy,PM2.5
+Ohio,Athens,39,9,6/29,156,Unhealthy,PM2.5
+Ohio,Belmont,39,13,6/29,173,Unhealthy,PM2.5
+Ohio,Butler,39,17,6/29,152,Unhealthy,PM2.5
+Ohio,Clark,39,23,6/29,154,Unhealthy,PM2.5
+Ohio,Clermont,39,25,6/29,125,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Cuyahoga,39,35,6/29,167,Unhealthy,PM2.5
+Ohio,Franklin,39,49,6/29,174,Unhealthy,PM2.5
+Ohio,Hamilton,39,61,6/29,149,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Jefferson,39,81,6/29,195,Unhealthy,PM2.5
+Ohio,Lake,39,85,6/29,152,Unhealthy,PM2.5
+Ohio,Lawrence,39,87,6/29,155,Unhealthy,PM2.5
+Ohio,Lucas,39,95,6/29,174,Unhealthy,PM2.5
+Ohio,Mahoning,39,99,6/29,177,Unhealthy,PM2.5
+Ohio,Medina,39,103,6/29,174,Unhealthy,PM2.5
+Ohio,Montgomery,39,113,6/29,152,Unhealthy,PM2.5
+Ohio,Preble,39,135,6/29,152,Unhealthy,PM2.5
+Ohio,Scioto,39,145,6/29,157,Unhealthy,PM2.5
+Ohio,Stark,39,151,6/29,194,Unhealthy,PM2.5
+Ohio,Summit,39,153,6/29,168,Unhealthy,PM2.5
+Ohio,Trumbull,39,155,6/29,174,Unhealthy,PM2.5
+Ohio,Warren,39,165,6/29,134,Unhealthy for Sensitive Groups,PM2.5
+Oklahoma,Kay,40,71,6/29,45,Good,PM2.5
+Oklahoma,Sequoyah,40,135,6/29,35,Good,PM2.5
+Oregon,Baker,41,1,6/29,25,Good,PM2.5
+Oregon,Crook,41,13,6/29,23,Good,PM2.5
+Oregon,Deschutes,41,17,6/29,20,Good,PM2.5
+Oregon,Grant,41,23,6/29,23,Good,PM2.5
+Oregon,Harney,41,25,6/29,20,Good,PM2.5
+Oregon,Jefferson,41,31,6/29,23,Good,PM2.5
+Oregon,Josephine,41,33,6/29,22,Good,PM2.5
+Oregon,Klamath,41,35,6/29,28,Good,PM2.5
+Oregon,Lake,41,37,6/29,27,Good,PM2.5
+Oregon,Linn,41,43,6/29,18,Good,PM2.5
+Oregon,Union,41,61,6/29,27,Good,PM2.5
+Oregon,Wallowa,41,63,6/29,25,Good,PM2.5
+Oregon,Wasco,41,65,6/29,20,Good,PM2.5
+Pennsylvania,Adams,42,1,6/29,181,Unhealthy,PM2.5
+Pennsylvania,Allegheny,42,3,6/29,212,Very Unhealthy,PM2.5
+Pennsylvania,Armstrong,42,5,6/29,192,Unhealthy,PM2.5
+Pennsylvania,Beaver,42,7,6/29,197,Unhealthy,PM2.5
+Pennsylvania,Berks,42,11,6/29,167,Unhealthy,PM2.5
+Pennsylvania,Blair,42,13,6/29,193,Unhealthy,PM2.5
+Pennsylvania,Cambria,42,21,6/29,187,Unhealthy,PM2.5
+Pennsylvania,Centre,42,27,6/29,173,Unhealthy,PM2.5
+Pennsylvania,Chester,42,29,6/29,169,Unhealthy,PM2.5
+Pennsylvania,Cumberland,42,41,6/29,171,Unhealthy,PM2.5
+Pennsylvania,Dauphin,42,43,6/29,173,Unhealthy,PM2.5
+Pennsylvania,Delaware,42,45,6/29,165,Unhealthy,PM2.5
+Pennsylvania,Erie,42,49,6/29,102,Unhealthy for Sensitive Groups,PM2.5
+Pennsylvania,Indiana,42,63,6/29,197,Unhealthy,PM2.5
+Pennsylvania,Lackawanna,42,69,6/29,167,Unhealthy,PM2.5
+Pennsylvania,Lancaster,42,71,6/29,170,Unhealthy,PM2.5
+Pennsylvania,Lebanon,42,75,6/29,167,Unhealthy,PM2.5
+Pennsylvania,Lehigh,42,77,6/29,163,Unhealthy,PM2.5
+Pennsylvania,Mercer,42,85,6/29,171,Unhealthy,PM2.5
+Pennsylvania,Montgomery,42,91,6/29,162,Unhealthy,PM2.5
+Pennsylvania,Northampton,42,95,6/29,164,Unhealthy,PM2.5
+Pennsylvania,Philadelphia,42,101,6/29,167,Unhealthy,PM2.5
+Pennsylvania,Washington,42,125,6/29,190,Unhealthy,PM2.5
+Pennsylvania,York,42,133,6/29,172,Unhealthy,PM2.5
+Puerto Rico,Bayamon,72,21,6/29,12,Good,PM2.5
+Puerto Rico,Caguas,72,25,6/29,14,Good,PM2.5
+Puerto Rico,Fajardo,72,53,6/29,13,Good,PM2.5
+Puerto Rico,Guaynabo,72,61,6/29,16,Good,PM2.5
+Rhode Island,Providence,44,7,6/29,51,Moderate,PM2.5
+South Carolina,Charleston,45,19,6/29,78,Moderate,PM2.5
+South Carolina,Chesterfield,45,25,6/29,98,Moderate,PM2.5
+South Carolina,Edgefield,45,37,6/29,68,Moderate,PM2.5
+South Carolina,Florence,45,41,6/29,97,Moderate,PM2.5
+South Carolina,Greenville,45,45,6/29,92,Moderate,PM2.5
+South Carolina,Richland,45,79,6/29,78,Moderate,PM2.5
+South Carolina,York,45,91,6/29,73,Moderate,PM2.5
+South Dakota,Brown,46,13,6/29,27,Good,PM2.5
+South Dakota,Codington,46,29,6/29,50,Good,PM2.5
+South Dakota,Hughes,46,65,6/29,15,Good,PM2.5
+Tennessee,Blount,47,9,6/29,126,Unhealthy for Sensitive Groups,PM2.5
+Tennessee,Davidson,47,37,6/29,83,Moderate,PM2.5
+Tennessee,Dyer,47,45,6/29,55,Moderate,PM2.5
+Tennessee,Hamilton,47,65,6/29,135,Unhealthy for Sensitive Groups,PM2.5
+Tennessee,Knox,47,93,6/29,140,Unhealthy for Sensitive Groups,PM2.5
+Tennessee,Lawrence,47,99,6/29,56,Moderate,PM2.5
+Tennessee,Madison,47,113,6/29,56,Moderate,PM2.5
+Tennessee,Maury,47,119,6/29,53,Moderate,PM2.5
+Tennessee,McMinn,47,107,6/29,108,Unhealthy for Sensitive Groups,PM2.5
+Tennessee,Montgomery,47,125,6/29,50,Good,PM2.5
+Tennessee,Putnam,47,141,6/29,99,Moderate,PM2.5
+Tennessee,Roane,47,145,6/29,104,Unhealthy for Sensitive Groups,PM2.5
+Tennessee,Shelby,47,157,6/29,56,Moderate,PM2.5
+Tennessee,Sullivan,47,163,6/29,118,Unhealthy for Sensitive Groups,PM2.5
+Tennessee,Sumner,47,165,6/29,79,Moderate,PM2.5
+Texas,Atascosa,48,13,6/29,51,Moderate,PM2.5
+Texas,Bowie,48,37,6/29,54,Moderate,PM2.5
+Texas,Brazos,48,41,6/29,27,Good,PM2.5
+Texas,Cameron,48,61,6/29,42,Good,PM2.5
+Texas,Dallas,48,113,6/29,47,Good,PM2.5
+Texas,Ector,48,135,6/29,34,Good,PM2.5
+Texas,El Paso,48,141,6/29,67,Moderate,PM2.5
+Texas,Galveston,48,167,6/29,31,Good,PM2.5
+Texas,Harris,48,201,6/29,46,Good,PM2.5
+Texas,Hidalgo,48,215,6/29,30,Good,PM2.5
+Texas,Jefferson,48,245,6/29,33,Good,PM2.5
+Texas,Kleberg,48,273,6/29,34,Good,PM2.5
+Texas,Lubbock,48,303,6/29,26,Good,PM2.5
+Texas,Navarro,48,349,6/29,38,Good,PM2.5
+Texas,Nueces,48,355,6/29,47,Good,PM2.5
+Texas,Potter,48,375,6/29,39,Good,PM2.5
+Texas,Tarrant,48,439,6/29,47,Good,PM2.5
+Vermont,Bennington,50,3,6/29,77,Moderate,PM2.5
+Vermont,Chittenden,50,7,6/29,57,Moderate,PM2.5
+Vermont,Rutland,50,21,6/29,59,Moderate,PM2.5
+Virginia,Albemarle,51,3,6/29,164,Unhealthy,PM2.5
+Virginia,Arlington,51,13,6/29,159,Unhealthy,PM2.5
+Virginia,Bristol City,51,520,6/29,116,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Charles,51,36,6/29,151,Unhealthy,PM2.5
+Virginia,Chesterfield,51,41,6/29,139,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Fairfax,51,59,6/29,170,Unhealthy,PM2.5
+Virginia,Frederick,51,69,6/29,176,Unhealthy,PM2.5
+Virginia,Hampton City,51,650,6/29,129,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Henrico,51,87,6/29,157,Unhealthy,PM2.5
+Virginia,Loudoun,51,107,6/29,162,Unhealthy,PM2.5
+Virginia,Lynchburg City,51,680,6/29,135,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Madison,51,113,6/29,156,Unhealthy,PM2.5
+Virginia,Norfolk City,51,710,6/29,96,Moderate,PM2.5
+Virginia,Richmond City,51,760,6/29,156,Unhealthy,PM2.5
+Virginia,Roanoke,51,161,6/29,156,Unhealthy,PM2.5
+Virginia,Rockingham,51,165,6/29,163,Unhealthy,PM2.5
+Virginia,Salem City,51,775,6/29,146,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Virginia Beach City,51,810,6/29,100,Moderate,PM2.5
+Washington,Adams,53,1,6/29,24,Good,PM2.5
+Washington,Asotin,53,3,6/29,39,Good,PM2.5
+Washington,Chelan,53,7,6/29,31,Good,PM2.5
+Washington,Cowlitz,53,15,6/29,3,Good,PM2.5
+Washington,Franklin,53,21,6/29,26,Good,PM2.5
+Washington,Garfield,53,23,6/29,14,Good,PM2.5
+Washington,Grant,53,25,6/29,28,Good,PM2.5
+Washington,Grays Harbor,53,27,6/29,7,Good,PM2.5
+Washington,Kitsap,53,35,6/29,9,Good,PM2.5
+Washington,Kittitas,53,37,6/29,23,Good,PM2.5
+Washington,Lewis,53,41,6/29,3,Good,PM2.5
+Washington,Mason,53,45,6/29,4,Good,PM2.5
+Washington,Okanogan,53,47,6/29,32,Good,PM2.5
+Washington,Snohomish,53,61,6/29,12,Good,PM2.5
+Washington,Stevens,53,65,6/29,30,Good,PM2.5
+Washington,Whitman,53,75,6/29,28,Good,PM2.5
+Washington,Yakima,53,77,6/29,32,Good,PM2.5
+West Virginia,Brooke,54,9,6/29,175,Unhealthy,PM2.5
+West Virginia,Cabell,54,11,6/29,144,Unhealthy for Sensitive Groups,PM2.5
+West Virginia,Hancock,54,29,6/29,173,Unhealthy,PM2.5
+West Virginia,Harrison,54,33,6/29,162,Unhealthy,PM2.5
+West Virginia,Kanawha,54,39,6/29,152,Unhealthy,PM2.5
+West Virginia,Marion,54,49,6/29,165,Unhealthy,PM2.5
+West Virginia,Marshall,54,51,6/29,182,Unhealthy,PM2.5
+West Virginia,Monongalia,54,61,6/29,164,Unhealthy,PM2.5
+West Virginia,Ohio,54,69,6/29,175,Unhealthy,PM2.5
+West Virginia,Wood,54,107,6/29,162,Unhealthy,PM2.5
+Wisconsin,Ashland,55,3,6/29,70,Moderate,PM2.5
+Wisconsin,Brown,55,9,6/29,168,Unhealthy,PM2.5
+Wisconsin,Dane,55,25,6/29,191,Unhealthy,PM2.5
+Wisconsin,Dodge,55,27,6/29,171,Unhealthy,PM2.5
+Wisconsin,Eau Claire,55,35,6/29,85,Moderate,PM2.5
+Wisconsin,Forest,55,41,6/29,120,Unhealthy for Sensitive Groups,PM2.5
+Wisconsin,Grant,55,43,6/29,177,Unhealthy,PM2.5
+Wisconsin,Jackson,55,53,6/29,120,Unhealthy for Sensitive Groups,PM2.5
+Wisconsin,Kenosha,55,59,6/29,155,Unhealthy,PM2.5
+Wisconsin,La Crosse,55,63,6/29,152,Unhealthy,PM2.5
+Wisconsin,Milwaukee,55,79,6/29,167,Unhealthy,PM2.5
+Wisconsin,Monroe,55,81,6/29,142,Unhealthy for Sensitive Groups,PM2.5
+Wisconsin,Outagamie,55,87,6/29,163,Unhealthy,PM2.5
+Wisconsin,Sauk,55,111,6/29,170,Unhealthy,PM2.5
+Wisconsin,Taylor,55,119,6/29,97,Moderate,PM2.5
+Wisconsin,Vilas,55,125,6/29,104,Unhealthy for Sensitive Groups,PM2.5
+Wisconsin,Waukesha,55,133,6/29,172,Unhealthy,PM2.5
+Wyoming,Park,56,29,6/29,11,Good,PM2.5
+Alabama,Baldwin,1,3,6/28,58,Moderate,PM2.5
+Alabama,Clay,1,27,6/28,53,Moderate,PM2.5
+Alabama,Jefferson,1,73,6/28,142,Unhealthy for Sensitive Groups,PM2.5
+Alabama,Mobile,1,97,6/28,57,Moderate,PM2.5
+Alabama,Montgomery,1,101,6/28,70,Moderate,PM2.5
+Alabama,Sumter,1,119,6/28,61,Moderate,PM2.5
+Alaska,Anchorage ,2,20,6/28,6,Good,PM2.5
+Alaska,Juneau ,2,110,6/28,11,Good,PM2.5
+Alaska,Matanuska-Susitna ,2,170,6/28,5,Good,PM2.5
+Arizona,Santa Cruz,4,23,6/28,40,Good,PM2.5
+Arkansas,Pulaski,5,119,6/28,67,Moderate,PM2.5
+California,Colusa,6,11,6/28,54,Moderate,PM2.5
+California,Del Norte,6,15,6/28,12,Good,PM2.5
+California,Kern,6,29,6/28,40,Good,PM2.5
+California,Mono,6,51,6/28,18,Good,PM2.5
+California,Plumas,6,63,6/28,26,Good,PM2.5
+California,Sacramento,6,67,6/28,37,Good,PM2.5
+California,San Mateo,6,81,6/28,23,Good,PM2.5
+California,Trinity,6,105,6/28,14,Good,PM2.5
+Colorado,Adams,8,1,6/28,48,Good,PM2.5
+District Of Columbia,District of Columbia,11,1,6/28,108,Unhealthy for Sensitive Groups,PM2.5
+Florida,Alachua,12,1,6/28,45,Good,PM2.5
+Florida,Baker,12,3,6/28,55,Moderate,PM2.5
+Florida,Bay,12,5,6/28,43,Good,PM2.5
+Florida,Citrus,12,17,6/28,41,Good,PM2.5
+Florida,Collier,12,21,6/28,39,Good,PM2.5
+Florida,Columbia,12,23,6/28,59,Moderate,PM2.5
+Florida,Hillsborough,12,57,6/28,34,Good,PM2.5
+Florida,Leon,12,73,6/28,55,Moderate,PM2.5
+Florida,Martin,12,85,6/28,33,Good,PM2.5
+Florida,Pinellas,12,103,6/28,31,Good,PM2.5
+Florida,Polk,12,105,6/28,36,Good,PM2.5
+Florida,Santa Rosa,12,113,6/28,52,Moderate,PM2.5
+Florida,Sarasota,12,115,6/28,33,Good,PM2.5
+Florida,Volusia,12,127,6/28,43,Good,PM2.5
+Florida,Wakulla,12,129,6/28,42,Good,PM2.5
+Georgia,Bibb,13,21,6/28,70,Moderate,PM2.5
+Georgia,Chatham,13,51,6/28,73,Moderate,PM2.5
+Georgia,Dougherty,13,95,6/28,68,Moderate,PM2.5
+Georgia,Floyd,13,115,6/28,67,Moderate,PM2.5
+Georgia,Gwinnett,13,135,6/28,65,Moderate,PM2.5
+Georgia,Hall,13,139,6/28,80,Moderate,PM2.5
+Georgia,Houston,13,153,6/28,64,Moderate,PM2.5
+Georgia,Lowndes,13,185,6/28,62,Moderate,PM2.5
+Georgia,Muscogee,13,215,6/28,67,Moderate,PM2.5
+Georgia,Richmond,13,245,6/28,63,Moderate,PM2.5
+Georgia,Walker,13,295,6/28,86,Moderate,PM2.5
+Georgia,Washington,13,303,6/28,70,Moderate,PM2.5
+Hawaii,Hawaii,15,1,6/28,14,Good,PM2.5
+Hawaii,Maui,15,9,6/28,12,Good,PM2.5
+Idaho,Benewah,16,9,6/28,26,Good,PM2.5
+Idaho,Boise,16,15,6/28,11,Good,PM2.5
+Idaho,Bonner,16,17,6/28,23,Good,PM2.5
+Idaho,Bonneville,16,19,6/28,16,Good,PM2.5
+Idaho,Canyon,16,27,6/28,21,Good,PM2.5
+Idaho,Franklin,16,41,6/28,10,Good,PM2.5
+Idaho,Kootenai,16,55,6/28,22,Good,PM2.5
+Idaho,Latah,16,57,6/28,17,Good,PM2.5
+Idaho,Lemhi,16,59,6/28,11,Good,PM2.5
+Idaho,Nez Perce,16,69,6/28,31,Good,PM2.5
+Idaho,Shoshone,16,79,6/28,27,Good,PM2.5
+Idaho,Twin Falls,16,83,6/28,15,Good,PM2.5
+Idaho,Valley,16,85,6/28,17,Good,PM2.5
+Illinois,Champaign,17,19,6/28,252,Very Unhealthy,PM2.5
+Illinois,Cook,17,31,6/28,194,Unhealthy,PM2.5
+Illinois,DuPage,17,43,6/28,203,Very Unhealthy,PM2.5
+Illinois,Hamilton,17,65,6/28,156,Unhealthy,PM2.5
+Illinois,Jersey,17,83,6/28,162,Unhealthy,PM2.5
+Illinois,Kane,17,89,6/28,153,Unhealthy,PM2.5
+Illinois,Macon,17,115,6/28,262,Very Unhealthy,PM2.5
+Illinois,Madison,17,119,6/28,154,Unhealthy,PM2.5
+Illinois,McHenry,17,111,6/28,184,Unhealthy,PM2.5
+Illinois,McLean,17,113,6/28,264,Very Unhealthy,PM2.5
+Illinois,Randolph,17,157,6/28,112,Unhealthy for Sensitive Groups,PM2.5
+Illinois,Rock Island,17,161,6/28,207,Very Unhealthy,PM2.5
+Illinois,Saint Clair,17,163,6/28,157,Unhealthy,PM2.5
+Illinois,Sangamon,17,167,6/28,222,Very Unhealthy,PM2.5
+Illinois,Will,17,197,6/28,221,Very Unhealthy,PM2.5
+Illinois,Winnebago,17,201,6/28,218,Very Unhealthy,PM2.5
+Indiana,Bartholomew,18,5,6/28,194,Unhealthy,PM2.5
+Indiana,Clark,18,19,6/28,174,Unhealthy,PM2.5
+Indiana,Elkhart,18,39,6/28,166,Unhealthy,PM2.5
+Indiana,Greene,18,55,6/28,195,Unhealthy,PM2.5
+Indiana,Hamilton,18,57,6/28,180,Unhealthy,PM2.5
+Indiana,Henry,18,65,6/28,178,Unhealthy,PM2.5
+Indiana,Howard,18,67,6/28,186,Unhealthy,PM2.5
+Indiana,Lake,18,89,6/28,185,Unhealthy,PM2.5
+Indiana,Madison,18,95,6/28,182,Unhealthy,PM2.5
+Indiana,Marion,18,97,6/28,234,Very Unhealthy,PM2.5
+Indiana,Monroe,18,105,6/28,205,Very Unhealthy,PM2.5
+Indiana,Porter,18,127,6/28,166,Unhealthy,PM2.5
+Indiana,St. Joseph,18,141,6/28,182,Unhealthy,PM2.5
+Indiana,Tippecanoe,18,157,6/28,190,Unhealthy,PM2.5
+Indiana,Vanderburgh,18,163,6/28,172,Unhealthy,PM2.5
+Indiana,Vigo,18,167,6/28,207,Very Unhealthy,PM2.5
+Indiana,Whitley,18,183,6/28,186,Unhealthy,PM2.5
+Iowa,Black Hawk,19,13,6/28,177,Unhealthy,PM2.5
+Iowa,Clinton,19,45,6/28,210,Very Unhealthy,PM2.5
+Iowa,Johnson,19,103,6/28,192,Unhealthy,PM2.5
+Iowa,Linn,19,113,6/28,190,Unhealthy,PM2.5
+Iowa,Muscatine,19,139,6/28,190,Unhealthy,PM2.5
+Iowa,Palo Alto,19,147,6/28,156,Unhealthy,PM2.5
+Iowa,Polk,19,153,6/28,162,Unhealthy,PM2.5
+Iowa,Scott,19,163,6/28,197,Unhealthy,PM2.5
+Iowa,Van Buren,19,177,6/28,169,Unhealthy,PM2.5
+Kansas,Johnson,20,91,6/28,52,Moderate,PM2.5
+Kansas,Neosho,20,133,6/28,53,Moderate,PM2.5
+Kansas,Shawnee,20,177,6/28,52,Moderate,PM2.5
+Kentucky,Bell,21,13,6/28,112,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Boyd,21,19,6/28,157,Unhealthy,PM2.5
+Kentucky,Campbell,21,37,6/28,178,Unhealthy,PM2.5
+Kentucky,Carter,21,43,6/28,153,Unhealthy,PM2.5
+Kentucky,Christian,21,47,6/28,104,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Daviess,21,59,6/28,165,Unhealthy,PM2.5
+Kentucky,Fayette,21,67,6/28,163,Unhealthy,PM2.5
+Kentucky,Hardin,21,93,6/28,151,Unhealthy,PM2.5
+Kentucky,Jefferson,21,111,6/28,166,Unhealthy,PM2.5
+Kentucky,Perry,21,193,6/28,130,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Pike,21,195,6/28,127,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Pulaski,21,199,6/28,107,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Warren,21,227,6/28,154,Unhealthy,PM2.5
+Louisiana,Bossier,22,15,6/28,57,Moderate,PM2.5
+Louisiana,East Baton Rouge,22,33,6/28,42,Good,PM2.5
+Louisiana,Lafourche,22,57,6/28,62,Moderate,PM2.5
+Louisiana,Livingston,22,63,6/28,54,Moderate,PM2.5
+Louisiana,Orleans,22,71,6/28,43,Good,PM2.5
+Louisiana,St. Bernard,22,87,6/28,44,Good,PM2.5
+Louisiana,St. Tammany,22,103,6/28,40,Good,PM2.5
+Louisiana,West Baton Rouge,22,121,6/28,35,Good,PM2.5
+Maine,Cumberland,23,5,6/28,46,Good,PM2.5
+Maryland,Baltimore,24,5,6/28,81,Moderate,PM2.5
+Maryland,Baltimore (City),24,510,6/28,90,Moderate,PM2.5
+Maryland,Cecil,24,15,6/28,84,Moderate,PM2.5
+Maryland,Dorchester,24,19,6/28,80,Moderate,PM2.5
+Maryland,Garrett,24,23,6/28,154,Unhealthy,PM2.5
+Maryland,Harford,24,25,6/28,72,Moderate,PM2.5
+Maryland,Howard,24,27,6/28,97,Moderate,PM2.5
+Maryland,Kent,24,29,6/28,66,Moderate,PM2.5
+Maryland,Montgomery,24,31,6/28,94,Moderate,PM2.5
+Maryland,Prince George's,24,33,6/28,91,Moderate,PM2.5
+Maryland,Washington,24,43,6/28,126,Unhealthy for Sensitive Groups,PM2.5
+Massachusetts,Berkshire,25,3,6/28,41,Good,PM2.5
+Michigan,Allegan,26,5,6/28,181,Unhealthy,PM2.5
+Michigan,Bay,26,17,6/28,155,Unhealthy,PM2.5
+Michigan,Genesee,26,49,6/28,161,Unhealthy,PM2.5
+Michigan,Ingham,26,65,6/28,173,Unhealthy,PM2.5
+Michigan,Kalamazoo,26,77,6/28,182,Unhealthy,PM2.5
+Michigan,Kent,26,81,6/28,175,Unhealthy,PM2.5
+Michigan,Lenawee,26,91,6/28,229,Very Unhealthy,PM2.5
+Michigan,Macomb,26,99,6/28,178,Unhealthy,PM2.5
+Michigan,Missaukee,26,113,6/28,99,Moderate,PM2.5
+Michigan,Ottawa,26,139,6/28,184,Unhealthy,PM2.5
+Michigan,St. Clair,26,147,6/28,185,Unhealthy,PM2.5
+Michigan,Washtenaw,26,161,6/28,196,Unhealthy,PM2.5
+Michigan,Wayne,26,163,6/28,200,Unhealthy,PM2.5
+Minnesota,Anoka,27,3,6/28,138,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Becker,27,5,6/28,82,Moderate,PM2.5
+Minnesota,Beltrami,27,7,6/28,68,Moderate,PM2.5
+Minnesota,Carlton,27,17,6/28,62,Moderate,PM2.5
+Minnesota,Cass,27,21,6/28,81,Moderate,PM2.5
+Minnesota,Crow Wing,27,35,6/28,95,Moderate,PM2.5
+Minnesota,Dakota,27,37,6/28,157,Unhealthy,PM2.5
+Minnesota,Hennepin,27,53,6/28,155,Unhealthy,PM2.5
+Minnesota,Lake,27,75,6/28,77,Moderate,PM2.5
+Minnesota,Lyon,27,83,6/28,112,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Olmsted,27,109,6/28,163,Unhealthy,PM2.5
+Minnesota,Ramsey,27,123,6/28,155,Unhealthy,PM2.5
+Minnesota,Saint Louis,27,137,6/28,73,Moderate,PM2.5
+Minnesota,Scott,27,139,6/28,154,Unhealthy,PM2.5
+Minnesota,Stearns,27,145,6/28,154,Unhealthy,PM2.5
+Minnesota,Wright,27,171,6/28,154,Unhealthy,PM2.5
+Mississippi,DeSoto,28,33,6/28,78,Moderate,PM2.5
+Mississippi,Forrest,28,35,6/28,33,Good,PM2.5
+Mississippi,Harrison,28,47,6/28,41,Good,PM2.5
+Missouri,Buchanan,29,21,6/28,53,Moderate,PM2.5
+Missouri,Greene,29,77,6/28,52,Moderate,PM2.5
+Missouri,Jackson,29,95,6/28,54,Moderate,PM2.5
+Missouri,Jefferson,29,99,6/28,121,Unhealthy for Sensitive Groups,PM2.5
+Missouri,St. Louis City,29,510,6/28,162,Unhealthy,PM2.5
+Montana,Beaverhead,30,1,6/28,8,Good,PM2.5
+Montana,Cascade,30,13,6/28,30,Good,PM2.5
+Montana,Gallatin,30,31,6/28,16,Good,PM2.5
+Montana,Glacier,30,35,6/28,32,Good,PM2.5
+Montana,Hill,30,41,6/28,30,Good,PM2.5
+Montana,Lincoln,30,53,6/28,28,Good,PM2.5
+Montana,Phillips,30,71,6/28,49,Good,PM2.5
+Montana,Ravalli,30,81,6/28,8,Good,PM2.5
+Montana,Richland,30,83,6/28,49,Good,PM2.5
+Montana,Sanders,30,89,6/28,30,Good,PM2.5
+Montana,Yellowstone,30,111,6/28,1,Good,PM2.5
+Nebraska,Gage,31,67,6/28,30,Good,PM2.5
+Nebraska,Hall,31,79,6/28,44,Good,PM2.5
+Nebraska,Sarpy,31,153,6/28,40,Good,PM2.5
+Nebraska,Scotts Bluff,31,157,6/28,10,Good,PM2.5
+Nebraska,Washington,31,177,6/28,45,Good,PM2.5
+Nevada,Douglas,32,5,6/28,15,Good,PM2.5
+New Jersey,Atlantic,34,1,6/28,63,Moderate,PM2.5
+New Jersey,Bergen,34,3,6/28,45,Good,PM2.5
+New Jersey,Camden,34,7,6/28,72,Moderate,PM2.5
+New Jersey,Cumberland,34,11,6/28,67,Moderate,PM2.5
+New Jersey,Hudson,34,17,6/28,51,Moderate,PM2.5
+New Jersey,Hunterdon,34,19,6/28,55,Moderate,PM2.5
+New Jersey,Mercer,34,21,6/28,64,Moderate,PM2.5
+New Jersey,Middlesex,34,23,6/28,55,Moderate,PM2.5
+New Jersey,Ocean,34,29,6/28,58,Moderate,PM2.5
+New Jersey,Union,34,39,6/28,54,Moderate,PM2.5
+New Jersey,Warren,34,41,6/28,55,Moderate,PM2.5
+New Mexico,Taos,35,55,6/28,18,Good,PM2.5
+New York,Albany,36,1,6/28,49,Good,PM2.5
+New York,Bronx,36,5,6/28,55,Moderate,PM2.5
+New York,Erie,36,29,6/28,164,Unhealthy,PM2.5
+New York,Kings,36,47,6/28,56,Moderate,PM2.5
+New York,Monroe,36,55,6/28,166,Unhealthy,PM2.5
+New York,Nassau,36,59,6/28,33,Good,PM2.5
+New York,Oneida,36,65,6/28,67,Moderate,PM2.5
+New York,Onondaga,36,67,6/28,97,Moderate,PM2.5
+New York,Orange,36,71,6/28,42,Good,PM2.5
+New York,Queens,36,81,6/28,58,Moderate,PM2.5
+New York,Steuben,36,101,6/28,155,Unhealthy,PM2.5
+North Carolina,Buncombe,37,21,6/28,75,Moderate,PM2.5
+North Carolina,Catawba,37,35,6/28,71,Moderate,PM2.5
+North Carolina,Cumberland,37,51,6/28,66,Moderate,PM2.5
+North Carolina,Davidson,37,57,6/28,69,Moderate,PM2.5
+North Carolina,Durham,37,63,6/28,79,Moderate,PM2.5
+North Carolina,Edgecombe,37,65,6/28,67,Moderate,PM2.5
+North Carolina,Forsyth,37,67,6/28,98,Moderate,PM2.5
+North Carolina,Guilford,37,81,6/28,91,Moderate,PM2.5
+North Carolina,Mitchell,37,121,6/28,75,Moderate,PM2.5
+North Carolina,Montgomery,37,123,6/28,67,Moderate,PM2.5
+North Carolina,New Hanover,37,129,6/28,75,Moderate,PM2.5
+North Carolina,Northampton,37,131,6/28,73,Moderate,PM2.5
+North Carolina,Pitt,37,147,6/28,71,Moderate,PM2.5
+North Carolina,Rowan,37,159,6/28,69,Moderate,PM2.5
+North Carolina,Swain,37,173,6/28,80,Moderate,PM2.5
+North Carolina,Wake,37,183,6/28,84,Moderate,PM2.5
+North Dakota,Burleigh,38,15,6/28,52,Moderate,PM2.5
+North Dakota,Cass,38,17,6/28,67,Moderate,PM2.5
+Ohio,Allen,39,3,6/28,183,Unhealthy,PM2.5
+Ohio,Butler,39,17,6/28,185,Unhealthy,PM2.5
+Ohio,Clark,39,23,6/28,184,Unhealthy,PM2.5
+Ohio,Clermont,39,25,6/28,169,Unhealthy,PM2.5
+Ohio,Cuyahoga,39,35,6/28,209,Very Unhealthy,PM2.5
+Ohio,Franklin,39,49,6/28,192,Unhealthy,PM2.5
+Ohio,Hamilton,39,61,6/28,182,Unhealthy,PM2.5
+Ohio,Jefferson,39,81,6/28,204,Very Unhealthy,PM2.5
+Ohio,Lake,39,85,6/28,165,Unhealthy,PM2.5
+Ohio,Lawrence,39,87,6/28,157,Unhealthy,PM2.5
+Ohio,Lucas,39,95,6/28,179,Unhealthy,PM2.5
+Ohio,Mahoning,39,99,6/28,202,Very Unhealthy,PM2.5
+Ohio,Medina,39,103,6/28,260,Very Unhealthy,PM2.5
+Ohio,Montgomery,39,113,6/28,184,Unhealthy,PM2.5
+Ohio,Preble,39,135,6/28,189,Unhealthy,PM2.5
+Ohio,Scioto,39,145,6/28,166,Unhealthy,PM2.5
+Ohio,Stark,39,151,6/28,258,Very Unhealthy,PM2.5
+Ohio,Summit,39,153,6/28,205,Very Unhealthy,PM2.5
+Ohio,Trumbull,39,155,6/28,197,Unhealthy,PM2.5
+Ohio,Warren,39,165,6/28,174,Unhealthy,PM2.5
+Oklahoma,Adair,40,1,6/28,46,Good,PM2.5
+Oklahoma,Kay,40,71,6/28,48,Good,PM2.5
+Oklahoma,Pittsburg,40,121,6/28,48,Good,PM2.5
+Oklahoma,Sequoyah,40,135,6/28,44,Good,PM2.5
+Oklahoma,Tulsa,40,143,6/28,49,Good,PM2.5
+Oregon,Baker,41,1,6/28,24,Good,PM2.5
+Oregon,Crook,41,13,6/28,23,Good,PM2.5
+Oregon,Deschutes,41,17,6/28,18,Good,PM2.5
+Oregon,Grant,41,23,6/28,23,Good,PM2.5
+Oregon,Harney,41,25,6/28,19,Good,PM2.5
+Oregon,Jefferson,41,31,6/28,19,Good,PM2.5
+Oregon,Josephine,41,33,6/28,21,Good,PM2.5
+Oregon,Klamath,41,35,6/28,26,Good,PM2.5
+Oregon,Lake,41,37,6/28,27,Good,PM2.5
+Oregon,Linn,41,43,6/28,15,Good,PM2.5
+Oregon,Union,41,61,6/28,23,Good,PM2.5
+Oregon,Wallowa,41,63,6/28,18,Good,PM2.5
+Oregon,Wasco,41,65,6/28,19,Good,PM2.5
+Pennsylvania,Adams,42,1,6/28,140,Unhealthy for Sensitive Groups,PM2.5
+Pennsylvania,Allegheny,42,3,6/28,187,Unhealthy,PM2.5
+Pennsylvania,Armstrong,42,5,6/28,188,Unhealthy,PM2.5
+Pennsylvania,Beaver,42,7,6/28,211,Very Unhealthy,PM2.5
+Pennsylvania,Berks,42,11,6/28,89,Moderate,PM2.5
+Pennsylvania,Blair,42,13,6/28,166,Unhealthy,PM2.5
+Pennsylvania,Cambria,42,21,6/28,169,Unhealthy,PM2.5
+Pennsylvania,Centre,42,27,6/28,156,Unhealthy,PM2.5
+Pennsylvania,Chester,42,29,6/28,105,Unhealthy for Sensitive Groups,PM2.5
+Pennsylvania,Cumberland,42,41,6/28,142,Unhealthy for Sensitive Groups,PM2.5
+Pennsylvania,Dauphin,42,43,6/28,144,Unhealthy for Sensitive Groups,PM2.5
+Pennsylvania,Delaware,42,45,6/28,88,Moderate,PM2.5
+Pennsylvania,Erie,42,49,6/28,173,Unhealthy,PM2.5
+Pennsylvania,Indiana,42,63,6/28,178,Unhealthy,PM2.5
+Pennsylvania,Lackawanna,42,69,6/28,79,Moderate,PM2.5
+Pennsylvania,Lancaster,42,71,6/28,125,Unhealthy for Sensitive Groups,PM2.5
+Pennsylvania,Lebanon,42,75,6/28,117,Unhealthy for Sensitive Groups,PM2.5
+Pennsylvania,Lehigh,42,77,6/28,75,Moderate,PM2.5
+Pennsylvania,Mercer,42,85,6/28,184,Unhealthy,PM2.5
+Pennsylvania,Montgomery,42,91,6/28,83,Moderate,PM2.5
+Pennsylvania,Northampton,42,95,6/28,73,Moderate,PM2.5
+Pennsylvania,Philadelphia,42,101,6/28,95,Moderate,PM2.5
+Pennsylvania,Washington,42,125,6/28,193,Unhealthy,PM2.5
+Pennsylvania,York,42,133,6/28,116,Unhealthy for Sensitive Groups,PM2.5
+South Carolina,Charleston,45,19,6/28,73,Moderate,PM2.5
+South Carolina,Chesterfield,45,25,6/28,73,Moderate,PM2.5
+South Carolina,Edgefield,45,37,6/28,65,Moderate,PM2.5
+South Carolina,Florence,45,41,6/28,78,Moderate,PM2.5
+South Carolina,Horry,45,51,6/28,66,Moderate,PM2.5
+South Carolina,Richland,45,79,6/28,70,Moderate,PM2.5
+South Carolina,Spartanburg,45,83,6/28,71,Moderate,PM2.5
+South Dakota,Brookings,46,11,6/28,74,Moderate,PM2.5
+South Dakota,Brown,46,13,6/28,34,Good,PM2.5
+South Dakota,Codington,46,29,6/28,69,Moderate,PM2.5
+South Dakota,Hughes,46,65,6/28,3,Good,PM2.5
+Tennessee,Dyer,47,45,6/28,50,Good,PM2.5
+Tennessee,Hamilton,47,65,6/28,95,Moderate,PM2.5
+Tennessee,Knox,47,93,6/28,102,Unhealthy for Sensitive Groups,PM2.5
+Tennessee,Lawrence,47,99,6/28,48,Good,PM2.5
+Tennessee,Madison,47,113,6/28,53,Moderate,PM2.5
+Tennessee,Maury,47,119,6/28,55,Moderate,PM2.5
+Tennessee,McMinn,47,107,6/28,95,Moderate,PM2.5
+Tennessee,Montgomery,47,125,6/28,70,Moderate,PM2.5
+Tennessee,Putnam,47,141,6/28,109,Unhealthy for Sensitive Groups,PM2.5
+Tennessee,Roane,47,145,6/28,89,Moderate,PM2.5
+Tennessee,Sullivan,47,163,6/28,84,Moderate,PM2.5
+Texas,Atascosa,48,13,6/28,47,Good,PM2.5
+Texas,Bowie,48,37,6/28,52,Moderate,PM2.5
+Texas,Brazos,48,41,6/28,30,Good,PM2.5
+Texas,Cameron,48,61,6/28,37,Good,PM2.5
+Texas,Dallas,48,113,6/28,52,Moderate,PM2.5
+Texas,Ector,48,135,6/28,40,Good,PM2.5
+Texas,El Paso,48,141,6/28,79,Moderate,PM2.5
+Texas,Harris,48,201,6/28,50,Good,PM2.5
+Texas,Harrison,48,203,6/28,42,Good,PM2.5
+Texas,Hidalgo,48,215,6/28,28,Good,PM2.5
+Texas,Jefferson,48,245,6/28,30,Good,PM2.5
+Texas,Kleberg,48,273,6/28,33,Good,PM2.5
+Texas,Lubbock,48,303,6/28,40,Good,PM2.5
+Texas,McLennan,48,309,6/28,41,Good,PM2.5
+Texas,Navarro,48,349,6/28,46,Good,PM2.5
+Texas,Nueces,48,355,6/28,38,Good,PM2.5
+Texas,Orange,48,361,6/28,30,Good,PM2.5
+Texas,Potter,48,375,6/28,49,Good,PM2.5
+Texas,Tarrant,48,439,6/28,55,Moderate,PM2.5
+Texas,Travis,48,453,6/28,45,Good,PM2.5
+Vermont,Bennington,50,3,6/28,42,Good,PM2.5
+Virginia,Albemarle,51,3,6/28,117,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Charles,51,36,6/28,74,Moderate,PM2.5
+Virginia,Fairfax,51,59,6/28,131,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Frederick,51,69,6/28,151,Unhealthy,PM2.5
+Virginia,Hampton City,51,650,6/28,58,Moderate,PM2.5
+Virginia,Henrico,51,87,6/28,85,Moderate,PM2.5
+Virginia,Madison,51,113,6/28,101,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Richmond City,51,760,6/28,86,Moderate,PM2.5
+Virginia,Roanoke,51,161,6/28,144,Unhealthy for Sensitive Groups,PM2.5
+Virginia,Virginia Beach City,51,810,6/28,59,Moderate,PM2.5
+Washington,Adams,53,1,6/28,21,Good,PM2.5
+Washington,Asotin,53,3,6/28,35,Good,PM2.5
+Washington,Chelan,53,7,6/28,31,Good,PM2.5
+Washington,Cowlitz,53,15,6/28,3,Good,PM2.5
+Washington,Franklin,53,21,6/28,23,Good,PM2.5
+Washington,Garfield,53,23,6/28,13,Good,PM2.5
+Washington,Grant,53,25,6/28,28,Good,PM2.5
+Washington,Grays Harbor,53,27,6/28,8,Good,PM2.5
+Washington,Jefferson,53,31,6/28,15,Good,PM2.5
+Washington,Kitsap,53,35,6/28,9,Good,PM2.5
+Washington,Kittitas,53,37,6/28,27,Good,PM2.5
+Washington,Lewis,53,41,6/28,5,Good,PM2.5
+Washington,Mason,53,45,6/28,4,Good,PM2.5
+Washington,Okanogan,53,47,6/28,33,Good,PM2.5
+Washington,Snohomish,53,61,6/28,19,Good,PM2.5
+Washington,Stevens,53,65,6/28,28,Good,PM2.5
+Washington,Whitman,53,75,6/28,25,Good,PM2.5
+Washington,Yakima,53,77,6/28,37,Good,PM2.5
+West Virginia,Marshall,54,51,6/28,194,Unhealthy,PM2.5
+Wisconsin,Ashland,55,3,6/28,113,Unhealthy for Sensitive Groups,PM2.5
+Wisconsin,Brown,55,9,6/28,171,Unhealthy,PM2.5
+Wisconsin,Dane,55,25,6/28,243,Very Unhealthy,PM2.5
+Wisconsin,Dodge,55,27,6/28,191,Unhealthy,PM2.5
+Wisconsin,Eau Claire,55,35,6/28,161,Unhealthy,PM2.5
+Wisconsin,Forest,55,41,6/28,171,Unhealthy,PM2.5
+Wisconsin,Grant,55,43,6/28,198,Unhealthy,PM2.5
+Wisconsin,Jackson,55,53,6/28,156,Unhealthy,PM2.5
+Wisconsin,Kenosha,55,59,6/28,178,Unhealthy,PM2.5
+Wisconsin,La Crosse,55,63,6/28,173,Unhealthy,PM2.5
+Wisconsin,Milwaukee,55,79,6/28,198,Unhealthy,PM2.5
+Wisconsin,Monroe,55,81,6/28,167,Unhealthy,PM2.5
+Wisconsin,Outagamie,55,87,6/28,177,Unhealthy,PM2.5
+Wisconsin,Ozaukee,55,89,6/28,176,Unhealthy,PM2.5
+Wisconsin,Sauk,55,111,6/28,246,Very Unhealthy,PM2.5
+Wisconsin,Taylor,55,119,6/28,164,Unhealthy,PM2.5
+Wisconsin,Vilas,55,125,6/28,160,Unhealthy,PM2.5
+Wisconsin,Waukesha,55,133,6/28,193,Unhealthy,PM2.5
+Wyoming,Park,56,29,6/28,13,Good,PM2.5
+Alabama,Baldwin,1,3,6/27,43,Good,PM2.5
+Alabama,Clay,1,27,6/27,58,Moderate,PM2.5
+Alabama,DeKalb,1,49,6/27,59,Moderate,PM2.5
+Alabama,Etowah,1,55,6/27,58,Moderate,PM2.5
+Alabama,Madison,1,89,6/27,62,Moderate,PM2.5
+Alabama,Mobile,1,97,6/27,59,Moderate,PM2.5
+Alabama,Montgomery,1,101,6/27,61,Moderate,PM2.5
+Alabama,Sumter,1,119,6/27,36,Good,PM2.5
+Alaska,Juneau ,2,110,6/27,10,Good,PM2.5
+Alaska,Matanuska-Susitna ,2,170,6/27,6,Good,PM2.5
+Arizona,Santa Cruz,4,23,6/27,38,Good,PM2.5
+Arkansas,Pulaski,5,119,6/27,78,Moderate,PM2.5
+California,Alameda,6,1,6/27,24,Good,PM2.5
+California,Colusa,6,11,6/27,54,Moderate,PM2.5
+California,Del Norte,6,15,6/27,7,Good,PM2.5
+California,Kern,6,29,6/27,37,Good,PM2.5
+California,Mono,6,51,6/27,23,Good,PM2.5
+California,Plumas,6,63,6/27,25,Good,PM2.5
+California,Sacramento,6,67,6/27,25,Good,PM2.5
+California,San Francisco,6,75,6/27,14,Good,PM2.5
+California,San Mateo,6,81,6/27,20,Good,PM2.5
+California,Santa Barbara,6,83,6/27,35,Good,PM2.5
+California,Trinity,6,105,6/27,12,Good,PM2.5
+Colorado,Rio Blanco,8,103,6/27,15,Good,PM2.5
+Connecticut,New London,9,11,6/27,52,Moderate,PM2.5
+Florida,Alachua,12,1,6/27,39,Good,PM2.5
+Florida,Baker,12,3,6/27,38,Good,PM2.5
+Florida,Citrus,12,17,6/27,41,Good,PM2.5
+Florida,Collier,12,21,6/27,37,Good,PM2.5
+Florida,Columbia,12,23,6/27,35,Good,PM2.5
+Florida,Duval,12,31,6/27,52,Moderate,PM2.5
+Florida,Escambia,12,33,6/27,37,Good,PM2.5
+Florida,Holmes,12,59,6/27,37,Good,PM2.5
+Florida,Leon,12,73,6/27,48,Good,PM2.5
+Florida,Marion,12,83,6/27,45,Good,PM2.5
+Florida,Miami-Dade,12,86,6/27,35,Good,PM2.5
+Florida,Orange,12,95,6/27,42,Good,PM2.5
+Florida,Seminole,12,117,6/27,39,Good,PM2.5
+Florida,Volusia,12,127,6/27,47,Good,PM2.5
+Florida,Wakulla,12,129,6/27,38,Good,PM2.5
+Georgia,Bibb,13,21,6/27,70,Moderate,PM2.5
+Georgia,Chatham,13,51,6/27,59,Moderate,PM2.5
+Georgia,DeKalb,13,89,6/27,62,Moderate,PM2.5
+Georgia,Dougherty,13,95,6/27,55,Moderate,PM2.5
+Georgia,Floyd,13,115,6/27,55,Moderate,PM2.5
+Georgia,Gwinnett,13,135,6/27,54,Moderate,PM2.5
+Georgia,Hall,13,139,6/27,58,Moderate,PM2.5
+Georgia,Houston,13,153,6/27,62,Moderate,PM2.5
+Georgia,Lowndes,13,185,6/27,46,Good,PM2.5
+Georgia,Muscogee,13,215,6/27,66,Moderate,PM2.5
+Georgia,Walker,13,295,6/27,60,Moderate,PM2.5
+Georgia,Washington,13,303,6/27,72,Moderate,PM2.5
+Hawaii,Hawaii,15,1,6/27,13,Good,PM2.5
+Idaho,Benewah,16,9,6/27,28,Good,PM2.5
+Idaho,Boise,16,15,6/27,17,Good,PM2.5
+Idaho,Bonner,16,17,6/27,22,Good,PM2.5
+Idaho,Bonneville,16,19,6/27,15,Good,PM2.5
+Idaho,Canyon,16,27,6/27,21,Good,PM2.5
+Idaho,Franklin,16,41,6/27,14,Good,PM2.5
+Idaho,Kootenai,16,55,6/27,22,Good,PM2.5
+Idaho,Latah,16,57,6/27,15,Good,PM2.5
+Idaho,Lemhi,16,59,6/27,13,Good,PM2.5
+Idaho,Nez Perce,16,69,6/27,31,Good,PM2.5
+Idaho,Shoshone,16,79,6/27,30,Good,PM2.5
+Idaho,Twin Falls,16,83,6/27,15,Good,PM2.5
+Idaho,Valley,16,85,6/27,17,Good,PM2.5
+Illinois,Champaign,17,19,6/27,172,Unhealthy,PM2.5
+Illinois,Cook,17,31,6/27,199,Unhealthy,PM2.5
+Illinois,DuPage,17,43,6/27,209,Very Unhealthy,PM2.5
+Illinois,Hamilton,17,65,6/27,85,Moderate,PM2.5
+Illinois,Jersey,17,83,6/27,144,Unhealthy for Sensitive Groups,PM2.5
+Illinois,Macon,17,115,6/27,171,Unhealthy,PM2.5
+Illinois,Madison,17,119,6/27,77,Moderate,PM2.5
+Illinois,McHenry,17,111,6/27,205,Very Unhealthy,PM2.5
+Illinois,McLean,17,113,6/27,182,Unhealthy,PM2.5
+Illinois,Rock Island,17,161,6/27,185,Unhealthy,PM2.5
+Illinois,Saint Clair,17,163,6/27,97,Moderate,PM2.5
+Illinois,Sangamon,17,167,6/27,158,Unhealthy,PM2.5
+Illinois,Will,17,197,6/27,198,Unhealthy,PM2.5
+Illinois,Winnebago,17,201,6/27,194,Unhealthy,PM2.5
+Indiana,Bartholomew,18,5,6/27,145,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Clark,18,19,6/27,105,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Elkhart,18,39,6/27,182,Unhealthy,PM2.5
+Indiana,Floyd,18,43,6/27,78,Moderate,PM2.5
+Indiana,Greene,18,55,6/27,154,Unhealthy,PM2.5
+Indiana,Hamilton,18,57,6/27,169,Unhealthy,PM2.5
+Indiana,Henry,18,65,6/27,181,Unhealthy,PM2.5
+Indiana,Howard,18,67,6/27,183,Unhealthy,PM2.5
+Indiana,Lake,18,89,6/27,195,Unhealthy,PM2.5
+Indiana,Madison,18,95,6/27,205,Very Unhealthy,PM2.5
+Indiana,Marion,18,97,6/27,181,Unhealthy,PM2.5
+Indiana,Monroe,18,105,6/27,155,Unhealthy,PM2.5
+Indiana,Porter,18,127,6/27,172,Unhealthy,PM2.5
+Indiana,St. Joseph,18,141,6/27,198,Unhealthy,PM2.5
+Indiana,Tippecanoe,18,157,6/27,183,Unhealthy,PM2.5
+Indiana,Vanderburgh,18,163,6/27,104,Unhealthy for Sensitive Groups,PM2.5
+Indiana,Vigo,18,167,6/27,161,Unhealthy,PM2.5
+Indiana,Whitley,18,183,6/27,199,Unhealthy,PM2.5
+Iowa,Black Hawk,19,13,6/27,155,Unhealthy,PM2.5
+Iowa,Clinton,19,45,6/27,182,Unhealthy,PM2.5
+Iowa,Johnson,19,103,6/27,187,Unhealthy,PM2.5
+Iowa,Linn,19,113,6/27,185,Unhealthy,PM2.5
+Iowa,Montgomery,19,137,6/27,72,Moderate,PM2.5
+Iowa,Muscatine,19,139,6/27,172,Unhealthy,PM2.5
+Iowa,Palo Alto,19,147,6/27,85,Moderate,PM2.5
+Iowa,Polk,19,153,6/27,153,Unhealthy,PM2.5
+Iowa,Scott,19,163,6/27,178,Unhealthy,PM2.5
+Iowa,Van Buren,19,177,6/27,156,Unhealthy,PM2.5
+Kansas,Johnson,20,91,6/27,54,Moderate,PM2.5
+Kansas,Neosho,20,133,6/27,59,Moderate,PM2.5
+Kansas,Sedgwick,20,173,6/27,54,Moderate,PM2.5
+Kansas,Sumner,20,191,6/27,52,Moderate,PM2.5
+Kansas,Trego,20,195,6/27,57,Moderate,PM2.5
+Kentucky,Bell,21,13,6/27,72,Moderate,PM2.5
+Kentucky,Boyd,21,19,6/27,100,Moderate,PM2.5
+Kentucky,Campbell,21,37,6/27,153,Unhealthy,PM2.5
+Kentucky,Carter,21,43,6/27,92,Moderate,PM2.5
+Kentucky,Christian,21,47,6/27,52,Moderate,PM2.5
+Kentucky,Daviess,21,59,6/27,102,Unhealthy for Sensitive Groups,PM2.5
+Kentucky,Fayette,21,67,6/27,80,Moderate,PM2.5
+Kentucky,Hardin,21,93,6/27,79,Moderate,PM2.5
+Kentucky,Jefferson,21,111,6/27,96,Moderate,PM2.5
+Kentucky,Perry,21,193,6/27,77,Moderate,PM2.5
+Kentucky,Pike,21,195,6/27,75,Moderate,PM2.5
+Kentucky,Pulaski,21,199,6/27,68,Moderate,PM2.5
+Kentucky,Warren,21,227,6/27,67,Moderate,PM2.5
+Louisiana,Bossier,22,15,6/27,48,Good,PM2.5
+Louisiana,Calcasieu,22,19,6/27,41,Good,PM2.5
+Louisiana,Lafourche,22,57,6/27,57,Moderate,PM2.5
+Louisiana,Livingston,22,63,6/27,31,Good,PM2.5
+Louisiana,Orleans,22,71,6/27,30,Good,PM2.5
+Maryland,Garrett,24,23,6/27,41,Good,PM2.5
+Michigan,Allegan,26,5,6/27,175,Unhealthy,PM2.5
+Michigan,Bay,26,17,6/27,181,Unhealthy,PM2.5
+Michigan,Genesee,26,49,6/27,171,Unhealthy,PM2.5
+Michigan,Ingham,26,65,6/27,182,Unhealthy,PM2.5
+Michigan,Kalamazoo,26,77,6/27,200,Unhealthy,PM2.5
+Michigan,Kent,26,81,6/27,197,Unhealthy,PM2.5
+Michigan,Lenawee,26,91,6/27,179,Unhealthy,PM2.5
+Michigan,Macomb,26,99,6/27,184,Unhealthy,PM2.5
+Michigan,Missaukee,26,113,6/27,187,Unhealthy,PM2.5
+Michigan,Ottawa,26,139,6/27,202,Very Unhealthy,PM2.5
+Michigan,Schoolcraft,26,153,6/27,131,Unhealthy for Sensitive Groups,PM2.5
+Michigan,St. Clair,26,147,6/27,182,Unhealthy,PM2.5
+Michigan,Washtenaw,26,161,6/27,194,Unhealthy,PM2.5
+Michigan,Wayne,26,163,6/27,177,Unhealthy,PM2.5
+Minnesota,Anoka,27,3,6/27,91,Moderate,PM2.5
+Minnesota,Becker,27,5,6/27,76,Moderate,PM2.5
+Minnesota,Beltrami,27,7,6/27,59,Moderate,PM2.5
+Minnesota,Carlton,27,17,6/27,142,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Cass,27,21,6/27,55,Moderate,PM2.5
+Minnesota,Dakota,27,37,6/27,117,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Hennepin,27,53,6/27,121,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Lake,27,75,6/27,114,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Lyon,27,83,6/27,97,Moderate,PM2.5
+Minnesota,Olmsted,27,109,6/27,123,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Ramsey,27,123,6/27,135,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Saint Louis,27,137,6/27,143,Unhealthy for Sensitive Groups,PM2.5
+Minnesota,Scott,27,139,6/27,90,Moderate,PM2.5
+Minnesota,Stearns,27,145,6/27,75,Moderate,PM2.5
+Minnesota,Wright,27,171,6/27,81,Moderate,PM2.5
+Mississippi,Forrest,28,35,6/27,31,Good,PM2.5
+Missouri,Buchanan,29,21,6/27,52,Moderate,PM2.5
+Missouri,Jackson,29,95,6/27,60,Moderate,PM2.5
+Missouri,St. Louis City,29,510,6/27,110,Unhealthy for Sensitive Groups,PM2.5
+Montana,Beaverhead,30,1,6/27,13,Good,PM2.5
+Montana,Cascade,30,13,6/27,35,Good,PM2.5
+Montana,Gallatin,30,31,6/27,18,Good,PM2.5
+Montana,Glacier,30,35,6/27,15,Good,PM2.5
+Montana,Hill,30,41,6/27,11,Good,PM2.5
+Montana,Lincoln,30,53,6/27,21,Good,PM2.5
+Montana,Ravalli,30,81,6/27,14,Good,PM2.5
+Montana,Sanders,30,89,6/27,22,Good,PM2.5
+Montana,Yellowstone,30,111,6/27,8,Good,PM2.5
+Nebraska,Gage,31,67,6/27,46,Good,PM2.5
+Nebraska,Hall,31,79,6/27,53,Moderate,PM2.5
+Nebraska,Scotts Bluff,31,157,6/27,30,Good,PM2.5
+Nebraska,Washington,31,177,6/27,77,Moderate,PM2.5
+Nevada,Douglas,32,5,6/27,24,Good,PM2.5
+New Jersey,Bergen,34,3,6/27,45,Good,PM2.5
+New Mexico,Bernalillo,35,1,6/27,77,Moderate,PM2.5
+New Mexico,Santa Fe,35,49,6/27,51,Moderate,PM2.5
+New Mexico,Taos,35,55,6/27,33,Good,PM2.5
+New York,Erie,36,29,6/27,65,Moderate,PM2.5
+New York,Kings,36,47,6/27,36,Good,PM2.5
+New York,Monroe,36,55,6/27,45,Good,PM2.5
+New York,Nassau,36,59,6/27,20,Good,PM2.5
+New York,Oneida,36,65,6/27,13,Good,PM2.5
+New York,Orange,36,71,6/27,13,Good,PM2.5
+North Carolina,Buncombe,37,21,6/27,47,Good,PM2.5
+North Carolina,Catawba,37,35,6/27,44,Good,PM2.5
+North Carolina,Davidson,37,57,6/27,33,Good,PM2.5
+North Carolina,Forsyth,37,67,6/27,55,Moderate,PM2.5
+North Carolina,Guilford,37,81,6/27,54,Moderate,PM2.5
+North Carolina,Mitchell,37,121,6/27,49,Good,PM2.5
+North Carolina,Northampton,37,131,6/27,57,Moderate,PM2.5
+North Carolina,Swain,37,173,6/27,47,Good,PM2.5
+North Dakota,Burleigh,38,15,6/27,73,Moderate,PM2.5
+North Dakota,Cass,38,17,6/27,92,Moderate,PM2.5
+North Dakota,Oliver,38,65,6/27,61,Moderate,PM2.5
+Ohio,Allen,39,3,6/27,169,Unhealthy,PM2.5
+Ohio,Butler,39,17,6/27,160,Unhealthy,PM2.5
+Ohio,Clark,39,23,6/27,162,Unhealthy,PM2.5
+Ohio,Clermont,39,25,6/27,133,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Cuyahoga,39,35,6/27,153,Unhealthy,PM2.5
+Ohio,Franklin,39,49,6/27,159,Unhealthy,PM2.5
+Ohio,Hamilton,39,61,6/27,155,Unhealthy,PM2.5
+Ohio,Jefferson,39,81,6/27,79,Moderate,PM2.5
+Ohio,Lake,39,85,6/27,130,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Lawrence,39,87,6/27,102,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Lucas,39,95,6/27,144,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Mahoning,39,99,6/27,93,Moderate,PM2.5
+Ohio,Medina,39,103,6/27,132,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Montgomery,39,113,6/27,162,Unhealthy,PM2.5
+Ohio,Preble,39,135,6/27,172,Unhealthy,PM2.5
+Ohio,Scioto,39,145,6/27,115,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Stark,39,151,6/27,107,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Summit,39,153,6/27,102,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Trumbull,39,155,6/27,109,Unhealthy for Sensitive Groups,PM2.5
+Ohio,Warren,39,165,6/27,153,Unhealthy,PM2.5
+Oklahoma,Adair,40,1,6/27,66,Moderate,PM2.5
+Oklahoma,Cleveland,40,27,6/27,56,Moderate,PM2.5
+Oklahoma,Dewey,40,43,6/27,54,Moderate,PM2.5
+Oklahoma,Kay,40,71,6/27,59,Moderate,PM2.5
+Oklahoma,Oklahoma,40,109,6/27,54,Moderate,PM2.5
+Oklahoma,Pittsburg,40,121,6/27,53,Moderate,PM2.5
+Oklahoma,Sequoyah,40,135,6/27,57,Moderate,PM2.5
+Oklahoma,Tulsa,40,143,6/27,64,Moderate,PM2.5
+Oregon,Baker,41,1,6/27,20,Good,PM2.5
+Oregon,Crook,41,13,6/27,22,Good,PM2.5
+Oregon,Deschutes,41,17,6/27,19,Good,PM2.5
+Oregon,Grant,41,23,6/27,21,Good,PM2.5
+Oregon,Harney,41,25,6/27,24,Good,PM2.5
+Oregon,Jefferson,41,31,6/27,21,Good,PM2.5
+Oregon,Josephine,41,33,6/27,18,Good,PM2.5
+Oregon,Klamath,41,35,6/27,23,Good,PM2.5
+Oregon,Lake,41,37,6/27,20,Good,PM2.5
+Oregon,Linn,41,43,6/27,12,Good,PM2.5
+Oregon,Union,41,61,6/27,24,Good,PM2.5
+Oregon,Wallowa,41,63,6/27,18,Good,PM2.5
+Oregon,Wasco,41,65,6/27,17,Good,PM2.5
+Pennsylvania,Allegheny,42,3,6/27,70,Moderate,PM2.5
+Pennsylvania,Armstrong,42,5,6/27,60,Moderate,PM2.5
+Pennsylvania,Beaver,42,7,6/27,81,Moderate,PM2.5
+Pennsylvania,Blair,42,13,6/27,45,Good,PM2.5
+Pennsylvania,Cambria,42,21,6/27,48,Good,PM2.5
+Pennsylvania,Cumberland,42,41,6/27,36,Good,PM2.5
+Pennsylvania,Erie,42,49,6/27,137,Unhealthy for Sensitive Groups,PM2.5
+Pennsylvania,Indiana,42,63,6/27,56,Moderate,PM2.5
+Pennsylvania,Mercer,42,85,6/27,96,Moderate,PM2.5
+Pennsylvania,Washington,42,125,6/27,76,Moderate,PM2.5
+South Carolina,Charleston,45,19,6/27,62,Moderate,PM2.5
+South Carolina,Edgefield,45,37,6/27,50,Good,PM2.5
+South Carolina,Florence,45,41,6/27,53,Moderate,PM2.5
+South Carolina,Greenville,45,45,6/27,53,Moderate,PM2.5
+South Carolina,Spartanburg,45,83,6/27,55,Moderate,PM2.5
+South Dakota,Brookings,46,11,6/27,79,Moderate,PM2.5
+South Dakota,Brown,46,13,6/27,78,Moderate,PM2.5
+South Dakota,Clay,46,27,6/27,97,Moderate,PM2.5
+South Dakota,Codington,46,29,6/27,83,Moderate,PM2.5
+South Dakota,Hughes,46,65,6/27,63,Moderate,PM2.5
+South Dakota,Jackson,46,71,6/27,55,Moderate,PM2.5
+South Dakota,Minnehaha,46,99,6/27,83,Moderate,PM2.5
+Tennessee,Blount,47,9,6/27,58,Moderate,PM2.5
+Tennessee,Davidson,47,37,6/27,60,Moderate,PM2.5
+Tennessee,Dyer,47,45,6/27,50,Good,PM2.5
+Tennessee,Hamilton,47,65,6/27,60,Moderate,PM2.5
+Tennessee,Knox,47,93,6/27,67,Moderate,PM2.5
+Tennessee,Lawrence,47,99,6/27,54,Moderate,PM2.5
+Tennessee,Madison,47,113,6/27,56,Moderate,PM2.5
+Tennessee,Maury,47,119,6/27,54,Moderate,PM2.5
+Tennessee,McMinn,47,107,6/27,57,Moderate,PM2.5
+Tennessee,Montgomery,47,125,6/27,45,Good,PM2.5
+Tennessee,Putnam,47,141,6/27,66,Moderate,PM2.5
+Tennessee,Roane,47,145,6/27,56,Moderate,PM2.5
+Tennessee,Sullivan,47,163,6/27,55,Moderate,PM2.5
+Texas,Atascosa,48,13,6/27,49,Good,PM2.5
+Texas,Bexar,48,29,6/27,49,Good,PM2.5
+Texas,Bowie,48,37,6/27,57,Moderate,PM2.5
+Texas,Brazos,48,41,6/27,38,Good,PM2.5
+Texas,Cameron,48,61,6/27,54,Moderate,PM2.5
+Texas,Ector,48,135,6/27,36,Good,PM2.5
+Texas,Harris,48,201,6/27,63,Moderate,PM2.5
+Texas,Hidalgo,48,215,6/27,50,Good,PM2.5
+Texas,Jefferson,48,245,6/27,54,Moderate,PM2.5
+Texas,Kleberg,48,273,6/27,52,Moderate,PM2.5
+Texas,Lubbock,48,303,6/27,40,Good,PM2.5
+Texas,McLennan,48,309,6/27,37,Good,PM2.5
+Texas,Montgomery,48,339,6/27,51,Moderate,PM2.5
+Texas,Navarro,48,349,6/27,36,Good,PM2.5
+Texas,Nueces,48,355,6/27,61,Moderate,PM2.5
+Texas,Orange,48,361,6/27,40,Good,PM2.5
+Texas,Potter,48,375,6/27,36,Good,PM2.5
+Texas,Travis,48,453,6/27,51,Moderate,PM2.5
+Texas,Webb,48,479,6/27,43,Good,PM2.5
+Virginia,Frederick,51,69,6/27,35,Good,PM2.5
+Virginia,Richmond City,51,760,6/27,35,Good,PM2.5
+Virginia,Roanoke,51,161,6/27,70,Moderate,PM2.5
+Virginia,Virginia Beach City,51,810,6/27,33,Good,PM2.5
+Washington,Adams,53,1,6/27,23,Good,PM2.5
+Washington,Asotin,53,3,6/27,37,Good,PM2.5
+Washington,Chelan,53,7,6/27,32,Good,PM2.5
+Washington,Clallam,53,9,6/27,18,Good,PM2.5
+Washington,Cowlitz,53,15,6/27,2,Good,PM2.5
+Washington,Franklin,53,21,6/27,26,Good,PM2.5
+Washington,Garfield,53,23,6/27,14,Good,PM2.5
+Washington,Grant,53,25,6/27,28,Good,PM2.5
+Washington,Grays Harbor,53,27,6/27,7,Good,PM2.5
+Washington,Jefferson,53,31,6/27,15,Good,PM2.5
+Washington,Kitsap,53,35,6/27,5,Good,PM2.5
+Washington,Kittitas,53,37,6/27,23,Good,PM2.5
+Washington,Lewis,53,41,6/27,4,Good,PM2.5
+Washington,Mason,53,45,6/27,3,Good,PM2.5
+Washington,Okanogan,53,47,6/27,30,Good,PM2.5
+Washington,Skagit,53,57,6/27,20,Good,PM2.5
+Washington,Snohomish,53,61,6/27,16,Good,PM2.5
+Washington,Stevens,53,65,6/27,26,Good,PM2.5
+Washington,Walla Walla,53,71,6/27,21,Good,PM2.5
+Washington,Whitman,53,75,6/27,27,Good,PM2.5
+Washington,Yakima,53,77,6/27,30,Good,PM2.5
+West Virginia,Marshall,54,51,6/27,91,Moderate,PM2.5
+Wisconsin,Ashland,55,3,6/27,115,Unhealthy for Sensitive Groups,PM2.5
+Wisconsin,Brown,55,9,6/27,170,Unhealthy,PM2.5
+Wisconsin,Dane,55,25,6/27,191,Unhealthy,PM2.5
+Wisconsin,Dodge,55,27,6/27,192,Unhealthy,PM2.5
+Wisconsin,Eau Claire,55,35,6/27,160,Unhealthy,PM2.5
+Wisconsin,Forest,55,41,6/27,140,Unhealthy for Sensitive Groups,PM2.5
+Wisconsin,Grant,55,43,6/27,173,Unhealthy,PM2.5
+Wisconsin,Jackson,55,53,6/27,154,Unhealthy,PM2.5
+Wisconsin,Kenosha,55,59,6/27,190,Unhealthy,PM2.5
+Wisconsin,La Crosse,55,63,6/27,164,Unhealthy,PM2.5
+Wisconsin,Milwaukee,55,79,6/27,225,Very Unhealthy,PM2.5
+Wisconsin,Monroe,55,81,6/27,156,Unhealthy,PM2.5
+Wisconsin,Outagamie,55,87,6/27,175,Unhealthy,PM2.5
+Wisconsin,Ozaukee,55,89,6/27,192,Unhealthy,PM2.5
+Wisconsin,Sauk,55,111,6/27,179,Unhealthy,PM2.5
+Wisconsin,Taylor,55,119,6/27,163,Unhealthy,PM2.5
+Wisconsin,Vilas,55,125,6/27,115,Unhealthy for Sensitive Groups,PM2.5
+Wisconsin,Waukesha,55,133,6/27,245,Very Unhealthy,PM2.5
+Wyoming,Natrona,56,25,6/27,15,Good,PM2.5
+Wyoming,Park,56,29,6/27,10,Good,PM2.5
